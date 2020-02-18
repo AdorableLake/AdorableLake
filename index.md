@@ -1,9 +1,14 @@
 ## Welcome to My GitHub Pages!!!
 
-You can call me as "Lake". Next is my shot self-intro.
+Here is Lake and next is my shot self-intro.
+
 I'm coming to finish my undergraduate-life in China right now. My major in this stage is not connected with program at all!
+
 Guess what? I'm a design-major student! Haha!
-But I try to change my major to something like programming! Just like what I said in my first page in Github:
+
+But I try to change my major to something like programming! 
+
+Just like what I said in my first page in Github:
 
 ```makedown
 "Programming is the coolest thing in this plant!"
