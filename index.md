@@ -1,29 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Pages!!!
 
-You can use the [editor on GitHub](https://github.com/AdorableLake/adorablelake.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can call me as "Lake". Next is my shot self-intro.
+I'm coming to finish my undergraduate-life in China right now. My major in this stage is not connected with program at all!
+Guess what? I'm a design-major student! Haha!
+But I try to change my major to something like programming! Just like what I said in my first page in Github:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```makedown
+"Programming is the coolest thing in this plant!"
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
