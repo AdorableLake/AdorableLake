@@ -24,7 +24,7 @@ Now, I'm preparing the graduate-entry test in order to major Competer Science.
 
 #
 
-My contact details are below, or you may prefer to make contact through [mail](lakexia0928@icloud.com).
+My contact details are below, or you may prefer to make contact through _mail:lakexia0928@icloud.com_.
 
 I respect and admire your work, and look forward to connecting with you.
 #
