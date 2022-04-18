@@ -35,4 +35,4 @@ Love, Lake
 Hangzhou, China 🇨🇳 
 
 
-_Copyright©️Lake(1998-2022)_
+_Copyright©️Lake_
