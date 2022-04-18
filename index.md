@@ -10,7 +10,6 @@ My contact details are below, or you may prefer to make contact through [mail](l
 
 I respect and admire your work, and look forward to connecting with you.
 
-
 ![Image text](url)
 
 Love, Lake
