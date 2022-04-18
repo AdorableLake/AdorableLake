@@ -26,7 +26,6 @@ My contact details are below, or you may prefer to make contact through _mail: l
 
 I respect and admire your work, and look forward to connecting with you.
 
-# ![b3118fe55428721167b178e3aa142c14-sticker](https://user-images.githubusercontent.com/50417000/163832675-f7c27b0d-101e-4487-99ec-d38ba89e3d5c.png)
 
 Love, Lake
 
