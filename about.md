@@ -6,13 +6,13 @@ Here is Lake and have just graduated from the Apple.Inc.
 
 In the past 2 years, I worked for the Greatest company -- Apple 🍎.
 
-![image text](url)
+![image text](file:///Users/lake/Desktop/夏马看花/Memoji.jpeg)
 
 ### _Earlier_
 
 More earlier time period, I was a design-major student.
 
-[Portfilo](url)
+[Portfilo](https://www.icloud.com.cn/keynote/0fdzznULKiOtoG5AT5WHVReGg#Personal_Portfolio_2021)
 
 ### _Now_
 
