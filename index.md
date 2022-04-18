@@ -10,22 +10,22 @@ _**[WechatBlog](https://mp.weixin.qq.com/s?__biz=MzU1NTY5MDU2OQ==&mid=2247483801
 
 Earlier time period, I was a design-major student.
 
+I appereated that stage expanded my horizons, and helped me to find something pretty around my life.
+
 _**[Portfolio](https://www.icloud.com.cn/keynote/0fdzznULKiOtoG5AT5WHVReGg#Personal_Portfolio_2021)--Powered by iCloud.**_
 
 _**[Portfolio](https://www.behance.net/gallery/141884391/Personal-Portfolio-2021?)--Powered by Behance.**_
 
 ### _Now_
 
-I appereated that stage expanded my horizons, and helped me to find something pretty around my life.
-
 Now, I'm preparing the graduate-entry test in order to major Competer Science.
 
-#
-
-My contact details are below, or you may prefer to make contact through _mail:lakexia0928@icloud.com_.
+My contact details are below, or you may prefer to make contact through _mail: lakexia0928@icloud.com_.
 
 I respect and admire your work, and look forward to connecting with you.
-#
+
+# ![b3118fe55428721167b178e3aa142c14-sticker](https://user-images.githubusercontent.com/50417000/163832675-f7c27b0d-101e-4487-99ec-d38ba89e3d5c.png)
+
 Love, Lake
 
 Hangzhou, China 🇨🇳 
