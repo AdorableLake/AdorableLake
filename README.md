@@ -1,5 +1,3 @@
-# adorablelake.github.io
-
 ## Lake | Tech & Design
 
 ### _Recent_
