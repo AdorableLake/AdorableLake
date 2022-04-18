@@ -1,18 +1,13 @@
-## Welcome to My GitHub Pages!!!
+## Lake | Tech&Design
 
-Here is Lake and next is my shot self-intro.
+Here is Lake and have just graduated from the Apple.Inc.
+In the past 2 years, I worked for the Greatest company -- Apple 🍎.
 
-I'm coming to finish my undergraduate-life in China right now. My major in this stage is not connected with program at all!
+More earlier time period, I was a design-major student.
+I appereated that stage expanded my horizons, and helped me to find something pretty around my life.
 
-Guess what? I'm a design-major student! Haha!
+Now, I'm preparing the graduate-entry test in order to major Competer Science.
 
-But I try to change my major to something like programming! 
-
-Just like what I said in my first page in Github:
-
-```makedown
-"Programming is the coolest thing in this plant!"
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
