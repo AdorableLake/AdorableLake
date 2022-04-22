@@ -18,7 +18,7 @@ _**[Portfolio](https://www.behance.net/gallery/141884391/Personal-Portfolio-2021
 
 ### _Now_
 
-Now, I'm preparing the graduate-entry test in order to major Competer Science.
+Now, I'm preparing the graduate-entry test in order to major Computer Science.
 
 
 You may prefer to make contact through _mail: lakexia0928@icloud.com_.
