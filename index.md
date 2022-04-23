@@ -2,7 +2,9 @@
 
 ### _Recent_
 
-In the past 2 years, I worked for the Greatest company -- Apple 🍎.
+Here is Lake and have just graduated from the Apple.Inc.
+
+In the past 2 years, my job titles ranged from the Siri Annotation Team (Shanghai Site) to the Apple Retail Team (Great China Market).
 
 _**[WechatBlog](https://mp.weixin.qq.com/s?__biz=MzU1NTY5MDU2OQ==&mid=2247483801&idx=1&sn=e62cf87115a93013339145f60bcfe9d8&chksm=fbd13ebfcca6b7a9a11e0310e19059356ca88dbb1c33da325f7a30f33f9578a786ff24a5e336&token=549323447&lang=zh_CN#rd)**_
 
