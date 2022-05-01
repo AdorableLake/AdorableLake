@@ -22,9 +22,8 @@ _**[Portfolio](https://www.behance.net/gallery/141884391/Personal-Portfolio-2021
 
 Now, I'm preparing the graduate-entry test in order to major Computer Science.
 
-
-
-My contact details are below, or you may prefer to make contact through _mail: lakexia0928@icloud.com_.
+My contact details are below, or you may prefer to make contact through 
+**_Mail: lakexia0928@icloud.com_.**
 
 I respect and admire your work, and look forward to connecting with you.
 
@@ -35,4 +34,4 @@ Love, Lake
 Hangzhou, China 🇨🇳 
 
 
-_Copyright©️Lake_
+#### Copyright©️Lake
