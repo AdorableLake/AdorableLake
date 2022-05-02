@@ -2,7 +2,7 @@
 
 ### _Recent_
 
-Here is Lake and have just graduated from the Apple.Inc.
+Here is Lake and has just graduated from the Apple.Inc.
 
 In the past 2 years, my job titles ranged from the Siri Annotation Team (Shanghai Site) to the Apple Retail Team (Great China Market).
 
