@@ -2,7 +2,7 @@
 
 ### _Recent_
 
-Here is Lake and have just graduated from the Apple.Inc.
+Here is Lake and has just graduated from the Apple.Inc.
 
 In the past 2 years, my job titles ranged from the Siri Annotation Team (Shanghai Site) to the Apple Retail Team (Great China Market).
 
@@ -22,11 +22,9 @@ _**[Portfolio](https://www.behance.net/gallery/141884391/Personal-Portfolio-2021
 
 Now, I'm preparing the graduate-entry test in order to major Computer Science.
 
-
 You may prefer to make contact through _mail: lakexia0928@icloud.com_.
 
 I respect and admire your work, and look forward to connecting with you.
-
 
 Love, Lake
 
